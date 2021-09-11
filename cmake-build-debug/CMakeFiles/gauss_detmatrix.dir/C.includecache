@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TuanAnh/CLionProjects/gauss-detmatrix/gaussGJ.h
+
+C:/Users/TuanAnh/CLionProjects/gauss-detmatrix/main.c
+stdio.h
+-
+conio.h
+-
+math.h
+-
+stdlib.h
+-
+stdbool.h
+-
+matrix.h
+C:/Users/TuanAnh/CLionProjects/gauss-detmatrix/matrix.h
+gaussGJ.h
+C:/Users/TuanAnh/CLionProjects/gauss-detmatrix/gaussGJ.h
+
+C:/Users/TuanAnh/CLionProjects/gauss-detmatrix/matrix.h
+
